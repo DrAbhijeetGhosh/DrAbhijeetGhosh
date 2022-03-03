@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrAbhijeetGhosh
 - 👀 I’m interested in PowerBI and PowerQuery
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Not Sure
 - 💞️ I’m looking to collaborate on PowerQuery and M-Code
 - 📫 How to reach me via email
 
